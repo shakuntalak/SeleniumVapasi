@@ -1,0 +1,11 @@
+com/Spree/TestCase/SearchProdutTextValidationTest.class
+com/Spree/TestCase/SearchFilterProductRangeValidationTest.class
+com/Spree/Pages/HomePage.class
+com/Spree/TestCase/Listener.class
+com/Spree/Pages/LogoutPage.class
+com/Spree/Pages/CartPage.class
+com/Spree/TestCase/ClearCartValidationTest.class
+com/Spree/TestCase/CheckoutOrderAmountValidationTest.class
+com/Spree/TestCase/LoginLogoutValidationTest.class
+com/Spree/TestCase/BaseTest.class
+com/Spree/Pages/LoginPage.class
